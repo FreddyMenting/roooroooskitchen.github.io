@@ -1,0 +1,16 @@
+.body1 {
+	background-color: beige;
+	background-size: cover;
+}
+#profilebox {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+#infobox {
+	background-color: #DCDCDC;
+}
+
+#infoboxfooter {
+	background-color: #A9A9A9;
+}
